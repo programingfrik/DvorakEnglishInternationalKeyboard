@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+    <keyboard-layout android:name="dvorak_international"
+        android:label="@string/keyboard_layout_dvorak_label"
+        android:keyboardLayout="@raw/keyboard_layout_dvorak" />
+    <keyboard-layout android:name="english_international"
+        android:label="@string/keyboard_layout_english_label"
+        android:keyboardLayout="@raw/keyboard_layout_en_int" />
+</keyboard-layouts>
