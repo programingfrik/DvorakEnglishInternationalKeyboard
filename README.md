@@ -10,3 +10,12 @@ From my previous attempt at making this keymap layout here is a question I poste
 In the proces of making this I realized that the android's normal "english international" keyboard layout was also missing the same accents and dead keys and special chars that the dvorak layout was missing, so I made both.
 
 I hope this project helps others as the guy of the Polish keyboard project helped me.
+
+References
+----------
+
+Some other links that may help you if you are dealing with a similar task:
+
+ - https://source.android.com/devices/input/key-character-map-files
+ - https://developer.android.com/reference/android/hardware/input/InputManager
+ - https://developer.android.com/reference/android/view/KeyCharacterMap

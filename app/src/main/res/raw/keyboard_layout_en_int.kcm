@@ -123,6 +123,8 @@ key E {
     shift:                              'E'
     alt:                                '\u00E9'
     alt+shift:                          '\u00C9'
+    fn:                                 '\u00E9'
+    fn+shift:                           '\u00C9'
 }
 
 key R {
@@ -165,6 +167,8 @@ key O {
     shift:                              'O'
     alt:                                '\u00F3'
     alt+shift:                          '\u00D3'
+    fn:                                 '\u00F3'
+    fn+shift:                           '\u00D3'
 }
 
 key P {
@@ -199,6 +203,8 @@ key A {
     shift:                              'A'
     alt:                                '\u00E1'
     alt+shift:                          '\u00C1'
+    fn:                                 '\u00E1'
+    fn+shift:                           '\u00C1'
 }
 
 key S {
@@ -261,6 +267,8 @@ key APOSTROPHE {
     shift:                              '"'
     alt:                                '\u0301'
     alt+shift:                          '\u0308'
+    fn:                                 '\u0301'
+    fn+shift:                           '\u0308'
 }
 
 ### ROW 4
@@ -301,6 +309,8 @@ key N {
     shift:                              'N'
     alt:                                '\u00F1'
     alt+shift:                          '\u00D1'
+    fn:                                 '\u00F1'
+    fn+shift:                           '\u00D1'
 }
 
 key M {
@@ -326,5 +336,6 @@ key SLASH {
     base:                               '/'
     shift:                              '?'
     alt:                                '\u00BF'
+    fn:                                 '\u00BF'
 }
 

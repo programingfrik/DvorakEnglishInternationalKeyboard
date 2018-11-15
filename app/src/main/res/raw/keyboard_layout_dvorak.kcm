@@ -57,7 +57,7 @@ key 5 {
     label:                              '5'
     base:                               '5'
     shift:                              '%'
-    alt:                                '\u20AC'
+    alt:                                '\u00A1'
 }
 
 key 6 {
@@ -111,6 +111,8 @@ key Q {
     shift:                              '"'
     alt:                                '\u0301'
     alt+shift:                          '\u0308'
+    fn:                                 '\u0301'
+    fn+shift:                           '\u0308'
 }
 
 key W {
@@ -172,6 +174,7 @@ key LEFT_BRACKET {
     base:                               '/'
     shift:                              '?'
     alt:                                '\u00BF'
+    fn:                                 '\u00BF'
 }
 
 key RIGHT_BRACKET {
@@ -194,6 +197,8 @@ key A {
     shift:                              'A'
     alt:                                '\u00E1'
     alt+shift:                          '\u00C1'
+    fn:                                 '\u00E1'
+    fn+shift:                           '\u00C1'
 }
 
 key S {
@@ -202,6 +207,8 @@ key S {
     shift:                              'O'
     alt:                                '\u00F3'
     alt+shift:                          '\u00D3'
+    fn:                                 '\u00F3'
+    fn+shift:                           '\u00D3'
 }
 
 key D {
@@ -210,6 +217,8 @@ key D {
     shift:                              'E'
     alt:                                '\u00E9'
     alt+shift:                          '\u00C9'
+    fn:                                 '\u00E9'
+    fn+shift:                           '\u00C9'
 }
 
 key F {
@@ -218,6 +227,8 @@ key F {
     shift:                              'U'
     alt:                                '\u00FA'
     alt+shift:                          '\u00DA'
+    fn:                                 '\u00FA'
+    fn+shift:                           '\u00DA'
 }
 
 key G {
@@ -226,6 +237,8 @@ key G {
     shift:                              'I'
     alt:                                '\u00ED'
     alt+shift:                          '\u00CC'
+    fn:                                 '\u00ED'
+    fn+shift:                           '\u00CC'
 }
 
 key H {
@@ -252,6 +265,8 @@ key L {
     shift:                              'N'
     alt:                                '\u00F1'
     alt+shift:                          '\u00D1'
+    fn:                                 '\u00F1'
+    fn+shift:                           '\u00D1'
 }
 
 key SEMICOLON {
