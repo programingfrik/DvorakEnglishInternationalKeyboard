@@ -5,6 +5,12 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.idea/codeStyles/
+/.idea/gradle.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/jarRepositories.xml
+/.idea/runConfigurations.xml
 .DS_Store
 /build
 /captures
@@ -12,3 +18,5 @@
 \#*
 .\#*
 *~
+debug
+release
